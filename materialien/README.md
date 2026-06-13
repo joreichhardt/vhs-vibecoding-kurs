@@ -6,7 +6,7 @@ Moegliche Inhalte:
 
 - Vorbereitungsmail fuer Teilnehmer
 - Datenschutz-Checkliste fuer KI-Nutzung
-- Prompt-Vorlage fuer Mini-Projekte
+- Prompt-Vorlage fuer erste Projektstaende
 - Projektsteckbrief
 - Test-Checkliste fuer Webseiten
 - Linkliste

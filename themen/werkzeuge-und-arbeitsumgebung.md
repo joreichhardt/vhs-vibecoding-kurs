@@ -1,10 +1,10 @@
-# Codex-Werkzeuge und Arbeitsumgebung
+# Coding-Agent-Werkzeuge und Arbeitsumgebung
 
 ## Ziel
 
-Die Teilnehmer kennen die noetige Arbeitsumgebung fuer Codex und koennen einschaetzen, welcher Einstiegspfad fuer das eigene Geraet passt.
+Die Teilnehmer kennen die noetige Arbeitsumgebung fuer Coding-Agents und koennen einschaetzen, welcher Einstiegspfad fuer das eigene Geraet passt.
 
-## Codex-Zugang
+## Anbieter- und Agent-Zugang
 
 Geeignet fuer:
 
@@ -16,13 +16,21 @@ Geeignet fuer:
 
 Vorteile:
 
-- Codex arbeitet im Projektkontext
+- der Coding-Agent arbeitet im Projektkontext
 - Aenderungen koennen direkt ausprobiert werden
 - Aufgaben koennen schrittweise formuliert werden
 
+Noetig:
+
+- Konto oder Subscription bei einem KI-Anbieter
+- ausreichendes Nutzungskontingent fuer mehrere Kursstunden
+- passender Coding-Agent, der mit diesem Anbieter arbeitet
+
+Geeignete Anbieter koennen zum Beispiel Anthropic Claude, OpenAI, Qwen oder vergleichbare Modellanbieter sein. Der Coding-Agent allein reicht nicht; er braucht einen funktionierenden Modellzugang.
+
 Grenzen:
 
-- Konto und Zugang muessen vorliegen
+- Konto, Subscription oder Nutzungskontingent muessen vorliegen
 - Datenschutzbedingungen beachten
 - Ergebnisse muessen geprueft werden
 - groessere Projekte brauchen mehr Struktur
@@ -34,7 +42,7 @@ Moegliche Bestandteile:
 - Visual Studio Code oder ein anderer Editor
 - Browser mit Entwicklertools
 - Terminal
-- Codex CLI oder Codex-Erweiterung
+- Coding-Agent-Werkzeug, zum Beispiel Codex CLI, Claude Code, Pi Agent oder ein vergleichbares Werkzeug
 - optional Git fuer spaetere Vertiefung
 - optional Node.js oder Python fuer spaetere Projekte
 
@@ -62,4 +70,4 @@ Damit kann ein Ergebnis ohne Server direkt im Browser geoeffnet werden.
 
 ## Kursregel
 
-Die Kurszeit wird nicht mit komplizierter Installation verbraucht. Codex-Zugang und Basiswerkzeuge werden moeglichst vorab vorbereitet. Wenn ein Geraet nicht rechtzeitig eingerichtet ist, wird mit einem gemeinsamen Demo-Projekt gearbeitet.
+Die Kurszeit wird nicht mit komplizierter Installation verbraucht. Agent-Zugang und Basiswerkzeuge werden moeglichst vorab vorbereitet. Wenn ein Geraet nicht rechtzeitig eingerichtet ist, wird mit einem gemeinsamen Demo-Projekt gearbeitet.

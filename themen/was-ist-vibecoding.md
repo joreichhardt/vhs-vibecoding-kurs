@@ -2,21 +2,21 @@
 
 ## Ziel
 
-Die Teilnehmer verstehen Vibecoding als Arbeitsweise, bei der Menschen Ideen, Ziele und Korrekturen liefern und Codex beim Erstellen, Aendern, Testen und Erklaeren von Code hilft.
+Die Teilnehmer verstehen Vibecoding als Arbeitsweise, bei der Menschen Ideen, Ziele und Korrekturen liefern und ein Coding-Agent beim Erstellen, Aendern, Testen und Erklaeren von Code hilft.
 
 ## Grundidee
 
-Vibecoding mit Codex bedeutet nicht, dass die KI alles richtig macht. Es bedeutet:
+Vibecoding mit Coding-Agents bedeutet nicht, dass die KI alles richtig macht. Es bedeutet:
 
 - eine Idee klar beschreiben
-- ein erstes Ergebnis von Codex erzeugen lassen
+- ein erstes Ergebnis vom Coding-Agenten erzeugen lassen
 - das Ergebnis ausprobieren
 - Fehler und Wuensche konkret zurueckmelden
 - Schritt fuer Schritt verbessern
 
 ## Was daran neu ist
 
-Frueher musste man viele Details einer Programmiersprache kennen, bevor ein erstes Ergebnis sichtbar wurde. Mit Codex kann man schneller zu einem Prototyp kommen, weil Codex Projektdateien lesen, bearbeiten und Befehle ausfuehren kann. Trotzdem bleibt der Mensch verantwortlich fuer Ziel, Bewertung, Datenschutz und Entscheidung.
+Frueher musste man viele Details einer Programmiersprache kennen, bevor ein erstes Ergebnis sichtbar wurde. Mit Coding-Agents kann man schneller zu einem Prototyp kommen, weil sie Projektdateien lesen, bearbeiten und je nach Werkzeug Befehle ausfuehren koennen. Trotzdem bleibt der Mensch verantwortlich fuer Ziel, Bewertung, Datenschutz und Entscheidung.
 
 ## Typische Einsatzfaelle
 
@@ -28,9 +28,9 @@ Frueher musste man viele Details einer Programmiersprache kennen, bevor ein erst
 - kleine Automationen
 - Lernhilfe beim Programmieren
 
-## Rolle von Codex
+## Rolle des Coding-Agent
 
-Codex ist kein reiner Chatbot fuer Code-Schnipsel. Im passenden Projektordner kann Codex:
+Ein Coding-Agent ist kein reiner Chatbot fuer Code-Schnipsel. Im passenden Projektordner kann er je nach Werkzeug:
 
 - Dateien lesen
 - Code aendern
@@ -48,4 +48,4 @@ Codex ist kein reiner Chatbot fuer Code-Schnipsel. Im passenden Projektordner ka
 
 ## Merksatz
 
-Codex kann Tempo geben. Qualitaet entsteht durch klare Ziele, kleine Schritte und kritisches Pruefen.
+Coding-Agents koennen Tempo geben. Qualitaet entsteht durch klare Ziele, kleine Schritte und kritisches Pruefen.

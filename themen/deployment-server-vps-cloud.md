@@ -81,4 +81,4 @@ Ein eigener Server, VPS oder eine Cloud-Instanz ist optional. Niemand soll im Ku
 
 ## Merksatz
 
-Veroeffentlichen ist ein eigener Arbeitsschritt. Codex kann helfen, aber Betrieb, Sicherheit, Kosten und Zugangsdaten bleiben Verantwortung des Menschen.
+Veroeffentlichen ist ein eigener Arbeitsschritt. Ein Coding-Agent kann helfen, aber Betrieb, Sicherheit, Kosten und Zugangsdaten bleiben Verantwortung des Menschen.

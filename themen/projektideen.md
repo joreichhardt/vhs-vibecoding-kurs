@@ -2,7 +2,7 @@
 
 ## Ziel
 
-Die Teilnehmer finden kleine Projekte, die im Kurs realistisch umgesetzt oder vorbereitet werden koennen.
+Die Teilnehmer finden Projekte, die im Kurs realistisch als erster lauffaehiger Stand umgesetzt oder vorbereitet werden koennen.
 
 ## Webseiten
 
@@ -19,6 +19,15 @@ Die Teilnehmer finden kleine Projekte, die im Kurs realistisch umgesetzt oder vo
 - Reise-Packliste
 - Trinkgeld- oder Rabattrechner
 - Umrechner fuer Einheiten
+
+## Startpunkte fuer groessere Projekte
+
+- internes Werkzeug fuer Verein, Praxis oder kleines Unternehmen
+- Prototyp fuer eine Geschaeftsidee
+- Dashboard fuer regelmaessige Auswertungen
+- Formularstrecke fuer Anfragen oder Bestellungen
+- Verwaltungsoberflaeche fuer einfache Datensaetze
+- Automationsidee mit spaeterem Server- oder Cloud-Betrieb
 
 ## Lernen und Alltag
 
@@ -37,10 +46,11 @@ Die Teilnehmer finden kleine Projekte, die im Kurs realistisch umgesetzt oder vo
 
 ## Auswahlkriterien
 
-Ein gutes erstes Projekt hat:
+Ein guter erster Projektstand hat:
 
 - wenige Eingabefelder
 - klare Ausgabe
 - keine Anmeldung
 - keine echten sensiblen Daten
 - einen sichtbaren Nutzen
+- eine naheliegende naechste Ausbaustufe

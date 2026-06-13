@@ -1,25 +1,26 @@
-# Vibecoding mit Codex: Von der Idee zum lauffaehigen Programm
+# Vibecoding mit Coding-Agents: Von der Idee zum lauffaehigen Programm
 
 Materialien fuer einen Mitmach-Workshop der Volkshochschule Kronach.
 
 ## Kursidee
 
-Mit KI kann heute fast jede Person erste lauffaehige Programme schreiben. Entscheidend ist nicht mehr, jede Codezeile auswendig zu kennen, sondern eine Idee klar zu beschreiben, Codex gezielt arbeiten zu lassen, Ergebnisse zu testen und Verbesserungen anzuleiten.
+Mit KI kann heute fast jede Person erste lauffaehige Programme schreiben. Entscheidend ist nicht mehr, jede Codezeile auswendig zu kennen, sondern eine Idee klar zu beschreiben, einen Coding-Agenten gezielt arbeiten zu lassen, Ergebnisse zu testen und Verbesserungen anzuleiten.
 
-In diesem Kurs bauen die Teilnehmerinnen und Teilnehmer mit OpenAI Codex ein kleines eigenes Programm: zum Beispiel eine Webseite, ein Formular, einen Rechner, eine Checkliste oder ein Mini-Tool fuer den Alltag. Der Kurs zeigt den Weg von der Idee ueber den ersten Prototyp bis zu einer Version, die im Browser laeuft und bewusst geprueft wurde.
+In diesem Kurs bauen die Teilnehmerinnen und Teilnehmer mit einem KI-Coding-Agenten einen ersten lauffaehigen Projektstand: zum Beispiel eine Webseite, ein Formular, einen Rechner, eine Checkliste, ein internes Werkzeug oder den Startpunkt fuer ein groesseres Softwareprojekt. Geeignete Werkzeuge sind zum Beispiel OpenAI Codex, Claude Code, Pi Agent oder andere Coding-Agents mit Projektzugriff. Der Kurs zeigt den Weg von der Idee ueber den ersten Prototyp bis zu einer Version, die laeuft und bewusst geprueft wurde.
 
 Der Kurs richtet sich an Einsteigerinnen und Einsteiger mit sicherer Computer-Grundbedienung. Programmierkenntnisse sind nicht erforderlich.
 
 ## Arbeitstitel
 
-**Vibecoding mit Codex: Jede Idee als erstes Programm ausprobieren**
+**Vibecoding mit Coding-Agents: Jede Idee als erstes Programm ausprobieren**
 
 Alternative Titel:
 
-- **Programmieren mit Codex: Einstieg ins Vibecoding**
-- **Von der Idee zum Mini-Programm**
+- **Programmieren mit KI-Agenten: Einstieg ins Vibecoding**
+- **Von der Idee zum ersten lauffaehigen Projektstand**
 - **KI schreibt Code: Sie steuern, testen und verbessern**
 - **Lauffaehige Programme ohne Programmier-Vorkenntnisse**
+- **Codex, Claude Code und Co. praktisch nutzen**
 
 ## Kursformat
 
@@ -29,28 +30,29 @@ Alternative Titel:
 - Samstag: 09:00 bis 15:00 Uhr
 - Umfang: 18 Zeitstunden / 24 UE
 - eigener Laptop erforderlich
-- Arbeit mit OpenAI Codex
-- eigenes Abschlussprojekt
+- Arbeit mit einem Coding-Agenten, zum Beispiel Codex, Claude Code oder vergleichbaren Werkzeugen
+- eigenes Abschlussprojekt oder Startpunkt fuer ein groesseres Projekt
 - Installation und Konto-Einrichtung moeglichst vor dem ersten Termin
 
 ## Arbeitswege
 
 Im Kurs gibt es drei Wege:
 
-1. **Codex als Coding-Agent**
-   - Codex liest, aendert und erklaert Projektdateien
+1. **Coding-Agent als Entwicklungshelfer**
+   - der Agent liest, aendert und erklaert Projektdateien
    - Teilnehmer beschreiben Ziel, Kontext, Grenzen und gewuenschtes Ergebnis
-   - Codex erzeugt einen ersten lauffaehigen Stand
+   - der Agent erzeugt einen ersten lauffaehigen Stand
 
-2. **Mini-Projekt im Browser**
+2. **Erster Projektstand**
    - HTML, CSS und JavaScript als einfache Startbasis
-   - Ergebnis laeuft lokal im Browser
+   - Ergebnis laeuft lokal im Browser oder in einer einfachen lokalen Umgebung
+   - geeignet als kleines fertiges Tool oder als Fundament fuer ein groesseres Projekt
    - spaeterer Ausbau mit Git, GitHub, eigenem Server, VPS oder Cloud-Instanz moeglich
 
 3. **Pruefen statt blind vertrauen**
    - Ergebnis ausprobieren
    - Fehler beschreiben
-   - Codex gezielt verbessern lassen
+   - den Coding-Agenten gezielt verbessern lassen
    - Datenschutz und Sicherheit beachten
 
 ## Voraussetzungen fuer Teilnehmer
@@ -61,13 +63,15 @@ Bitte mitbringen:
 - Netzteil
 - funktionierendes WLAN
 - aktueller Browser
-- Codex-Zugang oder ChatGPT/OpenAI-Konto, sofern fuer den Kurs genutzt
+- Zugang zu einem KI-Anbieter mit ausreichendem Nutzungskontingent oder Subscription
+- sinnvolle Anbieter: Anthropic Claude, OpenAI, Qwen oder vergleichbare Modellanbieter
+- passender Coding-Agent zum Anbieter, zum Beispiel Claude Code, OpenAI Codex, Pi Agent oder vergleichbare Coding-Agents
 - E-Mail-Zugang fuer Anmeldung und Konten
 - grundlegende Sicherheit im Umgang mit Dateien und Ordnern
 
 Empfohlen:
 
-- Codex CLI oder Codex-Erweiterung im Editor, falls vorab eingerichtet
+- passendes Coding-Agent-Werkzeug vorab eingerichtet
 - Texteditor wie Visual Studio Code
 - optional Zugang zu GitHub
 - optional eigener Server, VPS oder Cloud-Instanz fuer den Deployment-Teil
@@ -79,6 +83,7 @@ Nicht erforderlich:
 - Programmiererfahrung
 - besondere Hardware
 - eigener Server fuer den Einstieg
+- eigenes produktives Grossprojekt
 
 ## Kursregeln fuer KI-Nutzung
 
@@ -86,15 +91,15 @@ Nicht erforderlich:
 - KI-Ergebnisse werden geprueft, nicht blind uebernommen.
 - Kleine Schritte sind besser als grosse Komplettauftraege.
 - Fehler sind Teil des Arbeitsprozesses.
-- Codex darf nur im vorgesehenen Projektordner arbeiten.
+- Der Coding-Agent darf nur im vorgesehenen Projektordner arbeiten.
 - Der Kurs ersetzt keine Rechts-, Steuer-, Medizin- oder Sicherheitsberatung.
 
 ## Themen
 
 - [Was ist Vibecoding?](themen/was-ist-vibecoding.md)
-- [Codex-Werkzeuge und Arbeitsumgebung](themen/werkzeuge-und-arbeitsumgebung.md)
+- [Coding-Agent-Werkzeuge und Arbeitsumgebung](themen/werkzeuge-und-arbeitsumgebung.md)
 - [Prompting und Arbeitsweise](themen/prompting-und-arbeitsweise.md)
-- [Von der Idee zum Mini-Projekt](themen/idee-zum-mini-projekt.md)
+- [Von der Idee zum ersten Projektstand](themen/idee-zum-mini-projekt.md)
 - [Code lesen, testen und verbessern](themen/code-testen-und-verbessern.md)
 - [Datenschutz, Sicherheit und Urheberrecht](themen/datenschutz-sicherheit-urheberrecht.md)
 - [Nuetzliche Projektideen](themen/projektideen.md)
@@ -108,9 +113,9 @@ Nicht erforderlich:
 ### Dienstag, 18:00 bis 21:00 Uhr: Einstieg und Arbeitsumgebung
 
 - Kursziel und Sicherheitsregeln
-- Was ist Vibecoding mit Codex?
+- Was ist Vibecoding mit Coding-Agents?
 - Was kann ein Coding-Agent, was nicht?
-- Codex-Zugang, Editor, Terminal und Projektordner klaeren
+- Agent-Zugang, Editor, Terminal und Projektordner klaeren
 - Dateien, Ordner und Browser-Ergebnis verstehen
 - erstes lauffaehiges Beispiel erzeugen und im Browser oeffnen
 
@@ -119,19 +124,19 @@ Ergebnis: Jede Person hat eine eingerichtete Arbeitsumgebung und ein erstes lauf
 ### Mittwoch, 18:00 bis 21:00 Uhr: Gute Auftraege und erster Prototyp
 
 - Ziel, Kontext, Grenzen und "fertig wenn" formulieren
-- grosse Ideen in kleine Codex-Aufgaben zerlegen
-- Projektsteckbrief fuer das eigene Mini-Projekt schreiben
-- Codex einen ersten Prototyp bauen lassen
+- grosse Ideen in kleine Agent-Aufgaben zerlegen
+- Projektsteckbrief fuer das eigene Vorhaben schreiben
+- einen ersten Prototyp mit dem Coding-Agenten bauen lassen
 - Texte, Layout und Bedienung anpassen
 
-Ergebnis: Das eigene Mini-Projekt hat eine funktionierende Grundversion.
+Ergebnis: Das eigene Vorhaben hat eine funktionierende Grundversion oder einen belastbaren ersten Projektstand.
 
 ### Donnerstag, 18:00 bis 21:00 Uhr: Code verstehen, testen und verbessern
 
 - Was bedeutet "lauffaehig"?
 - HTML, CSS und JavaScript grob einordnen
 - Fehlermeldungen lesen
-- Bugs und Verbesserungswuensche klar an Codex zurueckmelden
+- Bugs und Verbesserungswuensche klar an den Coding-Agenten zurueckmelden
 - einfache Test-Checkliste anwenden
 - Bedienbarkeit, Eingaben und Smartphone-Ansicht pruefen
 - Versionen und Zwischenschritte sichern
@@ -144,7 +149,7 @@ Ergebnis: Das Projekt wurde geprueft und gezielt verbessert.
 - Git-Grundidee: Stand sichern, Aenderungen nachvollziehen, Rueckweg behalten
 - optional GitHub als Ablage und Austauschplattform
 - Projektstruktur aufraeumen
-- Codex fuer Erklaerungen, Refactoring und kleine Erweiterungen nutzen
+- den Coding-Agenten fuer Erklaerungen, Refactoring und kleine Erweiterungen nutzen
 - Datenschutz, Zugangsdaten und sensible Daten im Projekt pruefen
 - Deployment-Ziel waehlen: lokal, GitHub, eigener Server, VPS oder Cloud-Instanz
 
@@ -163,7 +168,7 @@ Ergebnis: Das Projekt ist aufgeraeumt, gesichert und bereit fuer Fertigstellung 
 - naechste Lernschritte: HTML/CSS/JavaScript, Git, Hosting, Cloud, Automationen
 - offene Fragen
 
-Ergebnis: Jede Person nimmt ein eigenes lauffaehiges Programm und einen naechsten Lernplan mit.
+Ergebnis: Jede Person nimmt ein eigenes lauffaehiges Programm, einen ersten Projektstand oder einen klaren naechsten Lern- und Ausbauplan mit.
 
 ## Repository-Struktur
 

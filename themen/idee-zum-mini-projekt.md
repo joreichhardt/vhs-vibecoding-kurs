@@ -1,15 +1,15 @@
-# Von der Idee zum Mini-Projekt
+# Von der Idee zum ersten Projektstand
 
 ## Ziel
 
-Die Teilnehmer lernen, eine vage Idee in ein kleines, umsetzbares Projekt zu verwandeln.
+Die Teilnehmer lernen, eine vage Idee in einen ersten lauffaehigen Projektstand zu verwandeln. Das kann ein kleines abgeschlossenes Tool sein oder der Startpunkt fuer ein groesseres Vorhaben.
 
-## Geeignete Mini-Projekte
+## Geeignete erste Projektstaende
 
 Ein gutes Kursprojekt ist:
 
-- klein genug fuer einen Abend
-- im Browser ausprobierbar
+- klein genug fuer einen ersten lauffaehigen Stand
+- im Browser oder lokal ausprobierbar
 - ohne sensible Daten nutzbar
 - leicht zu erklaeren
 - Schritt fuer Schritt erweiterbar
@@ -23,6 +23,8 @@ Ein gutes Kursprojekt ist:
 - Rezept- oder Buecherliste
 - Trainingsplan-Generator
 - Haushalts-Checkliste
+- Startpunkt fuer ein internes Verwaltungstool
+- Prototyp fuer eine groessere Geschaeftsidee
 
 ## Projektsteckbrief
 
@@ -48,4 +50,4 @@ Die erste Version soll nur den Kern zeigen. Spaetere Wuensche kommen in eine Lis
 
 ## Kursbotschaft
 
-Ein kleines fertiges Projekt ist wertvoller als eine grosse unfertige Idee.
+Ein lauffaehiger erster Projektstand ist wertvoller als eine grosse unfertige Idee.

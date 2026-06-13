@@ -2,9 +2,9 @@
 
 ## Ziel
 
-Die Teilnehmer koennen Codex-Auftraege so formulieren, dass brauchbare, pruefbare und verbesserbare Ergebnisse entstehen.
+Die Teilnehmer koennen Agent-Auftraege so formulieren, dass brauchbare, pruefbare und verbesserbare Ergebnisse entstehen.
 
-## Gute Codex-Auftraege enthalten
+## Gute Agent-Auftraege enthalten
 
 - Ziel: Was soll am Ende entstehen?
 - Kontext: Fuer wen ist es gedacht?
@@ -12,7 +12,7 @@ Die Teilnehmer koennen Codex-Auftraege so formulieren, dass brauchbare, pruefbar
 - Grenzen: Was soll nicht passieren?
 - Ausgabeformat: Text, Tabelle, Code, Checkliste oder Schrittfolge?
 - Arbeitsbereich: Welche Dateien oder Ordner sind relevant?
-- Fertig wenn: Woran soll Codex erkennen, dass die Aufgabe erledigt ist?
+- Fertig wenn: Woran soll der Coding-Agent erkennen, dass die Aufgabe erledigt ist?
 - Rueckfrage-Regel: Wann soll die KI nachfragen?
 
 ## Beispielstruktur

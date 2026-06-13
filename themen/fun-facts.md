@@ -10,7 +10,7 @@ HTML-Dateien lassen sich oft direkt im Browser oeffnen. Dadurch sieht man schnel
 
 ## Fehlermeldungen sind Daten
 
-Eine Fehlermeldung ist keine Niederlage, sondern ein Hinweis. Fuer Codex ist eine genaue Fehlermeldung oft der beste Ausgangspunkt fuer Hilfe.
+Eine Fehlermeldung ist keine Niederlage, sondern ein Hinweis. Fuer Coding-Agents ist eine genaue Fehlermeldung oft der beste Ausgangspunkt fuer Hilfe.
 
 ## KI kann erklaeren und umbauen
 
