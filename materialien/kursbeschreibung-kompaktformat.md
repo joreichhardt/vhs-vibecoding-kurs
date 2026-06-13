@@ -47,6 +47,8 @@ Die Teilnehmerinnen und Teilnehmer koennen nach dem Kurs:
 - E-Mail-Zugang fuer Anmeldung und Konten
 - grundlegende Computerkenntnisse
 - Subscription oder ausreichend Credits bei Claude, OpenAI, Qwen oder einem vergleichbaren Modellanbieter
+- empfohlen fuer den Workshopzeitraum: Pro-, Max-, Team- oder vergleichbarer Tarif mit hoeherem Nutzungskontingent
+- niedrige Plus- oder Standard-Tarife koennen bei Coding-Agenten schnell an Token- und Nutzungslimits stossen
 - passender Coding-Agent zum Anbieter, zum Beispiel Claude Code, OpenAI Codex, Pi Agent oder vergleichbare Coding-Agents
 - optional GitHub-Zugang
 - optional eigener Server, VPS oder Cloud-Instanz fuer den Deployment-Teil

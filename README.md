@@ -70,6 +70,8 @@ Bitte mitbringen:
 
 Empfohlen:
 
+- fuer den Workshopzeitraum ein Pro-, Max-, Team- oder vergleichbarer Tarif mit hoeherem Nutzungskontingent
+- niedrige Plus- oder Standard-Tarife koennen bei Coding-Agenten schnell an Token- und Nutzungslimits stossen
 - passendes Coding-Agent-Werkzeug vorab eingerichtet
 - Texteditor wie Visual Studio Code
 - optional Zugang zu GitHub

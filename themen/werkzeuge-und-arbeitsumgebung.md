@@ -24,9 +24,10 @@ Noetig:
 
 - Subscription oder ausreichend Credits bei einem Modellanbieter
 - ausreichendes Nutzungskontingent fuer mehrere Kursstunden, zum Beispiel bei Claude, OpenAI, Qwen oder einem vergleichbaren Anbieter
+- fuer den Workshopzeitraum besser ein Pro-, Max-, Team- oder vergleichbarer Tarif mit hoeherem Limit
 - passender Coding-Agent, der mit diesem Anbieter arbeitet
 
-Der Coding-Agent allein reicht nicht; er braucht einen funktionierenden Modellzugang.
+Der Coding-Agent allein reicht nicht; er braucht einen funktionierenden Modellzugang. Niedrige Plus- oder Standard-Tarife koennen fuer laengere Agent-Sessions zu schnell an Token- und Nutzungslimits stossen.
 
 Grenzen:
 
