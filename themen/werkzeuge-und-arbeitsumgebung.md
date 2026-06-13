@@ -22,11 +22,11 @@ Vorteile:
 
 Noetig:
 
-- Konto oder Subscription bei einem KI-Anbieter
-- ausreichendes Nutzungskontingent fuer mehrere Kursstunden
+- Subscription oder ausreichend Credits bei einem Modellanbieter
+- ausreichendes Nutzungskontingent fuer mehrere Kursstunden, zum Beispiel bei Claude, OpenAI, Qwen oder einem vergleichbaren Anbieter
 - passender Coding-Agent, der mit diesem Anbieter arbeitet
 
-Geeignete Anbieter koennen zum Beispiel Anthropic Claude, OpenAI, Qwen oder vergleichbare Modellanbieter sein. Der Coding-Agent allein reicht nicht; er braucht einen funktionierenden Modellzugang.
+Der Coding-Agent allein reicht nicht; er braucht einen funktionierenden Modellzugang.
 
 Grenzen:
 

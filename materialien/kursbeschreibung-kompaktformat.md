@@ -23,6 +23,7 @@ Die Teilnehmerinnen und Teilnehmer koennen nach dem Kurs:
 - einfache Projektdateien und Browser-Ergebnisse einordnen
 - KI-generierten Code testen und verbessern lassen
 - Fehlermeldungen sinnvoll an den Coding-Agenten zurueckgeben
+- Coding-Agent Skills als wiederverwendbare Workflows einordnen
 - Projektstaende mit Git nachvollziehbar sichern
 - Veroeffentlichungswege ueber GitHub, eigenen Server, VPS oder Cloud-Instanz einordnen
 - Datenschutz- und Sicherheitsgrenzen beachten
@@ -45,8 +46,7 @@ Die Teilnehmerinnen und Teilnehmer koennen nach dem Kurs:
 - funktionierendes WLAN
 - E-Mail-Zugang fuer Anmeldung und Konten
 - grundlegende Computerkenntnisse
-- Zugang zu einem KI-Anbieter mit ausreichendem Nutzungskontingent oder Subscription
-- sinnvolle Anbieter: Anthropic Claude, OpenAI, Qwen oder vergleichbare Modellanbieter
+- Subscription oder ausreichend Credits bei Claude, OpenAI, Qwen oder einem vergleichbaren Modellanbieter
 - passender Coding-Agent zum Anbieter, zum Beispiel Claude Code, OpenAI Codex, Pi Agent oder vergleichbare Coding-Agents
 - optional GitHub-Zugang
 - optional eigener Server, VPS oder Cloud-Instanz fuer den Deployment-Teil
@@ -66,6 +66,7 @@ Ergebnis: Alle Teilnehmenden haben eine eingerichtete Arbeitsumgebung und ein er
 
 - Ziel, Kontext, Grenzen und Erfolgskriterien formulieren
 - grosse Ideen in kleine Aufgaben zerlegen
+- Unterschied zwischen Prompt, Projektregel und Skill verstehen
 - eigenes Vorhaben als Projektsteckbrief beschreiben
 - ersten Prototyp mit dem Coding-Agenten bauen
 
@@ -77,6 +78,7 @@ Ergebnis: Das eigene Vorhaben hat eine funktionierende Grundversion oder einen b
 - HTML, CSS und JavaScript grob einordnen
 - Fehlermeldungen lesen und weitergeben
 - einfache Test-Checkliste anwenden
+- wiederverwendbare Skills fuer Diagnose, TDD oder Review kennenlernen
 - Bedienung, Texte, Eingaben und Darstellung verbessern
 
 Ergebnis: Das Projekt wurde geprueft und gezielt verbessert.
@@ -85,6 +87,7 @@ Ergebnis: Das Projekt wurde geprueft und gezielt verbessert.
 
 - Git-Grundidee: Aenderungen sichern und nachvollziehen
 - optional GitHub als Projektablage
+- Agent Skills und Projektregeln fuer wiederkehrende Arbeit einordnen
 - Projektstruktur aufraeumen
 - den Coding-Agenten fuer Erklaerungen, Refactoring und Erweiterungen einsetzen
 - Datenschutz, Zugangsdaten und sensible Daten pruefen

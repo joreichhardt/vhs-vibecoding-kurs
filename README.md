@@ -63,8 +63,7 @@ Bitte mitbringen:
 - Netzteil
 - funktionierendes WLAN
 - aktueller Browser
-- Zugang zu einem KI-Anbieter mit ausreichendem Nutzungskontingent oder Subscription
-- sinnvolle Anbieter: Anthropic Claude, OpenAI, Qwen oder vergleichbare Modellanbieter
+- Subscription oder ausreichend Credits bei Claude, OpenAI, Qwen oder einem vergleichbaren Modellanbieter
 - passender Coding-Agent zum Anbieter, zum Beispiel Claude Code, OpenAI Codex, Pi Agent oder vergleichbare Coding-Agents
 - E-Mail-Zugang fuer Anmeldung und Konten
 - grundlegende Sicherheit im Umgang mit Dateien und Ordnern
@@ -99,6 +98,7 @@ Nicht erforderlich:
 - [Was ist Vibecoding?](themen/was-ist-vibecoding.md)
 - [Coding-Agent-Werkzeuge und Arbeitsumgebung](themen/werkzeuge-und-arbeitsumgebung.md)
 - [Prompting und Arbeitsweise](themen/prompting-und-arbeitsweise.md)
+- [Coding-Agent Skills und wiederverwendbare Workflows](themen/coding-agent-skills.md)
 - [Von der Idee zum ersten Projektstand](themen/idee-zum-mini-projekt.md)
 - [Code lesen, testen und verbessern](themen/code-testen-und-verbessern.md)
 - [Datenschutz, Sicherheit und Urheberrecht](themen/datenschutz-sicherheit-urheberrecht.md)
@@ -125,6 +125,7 @@ Ergebnis: Jede Person hat eine eingerichtete Arbeitsumgebung und ein erstes lauf
 
 - Ziel, Kontext, Grenzen und "fertig wenn" formulieren
 - grosse Ideen in kleine Agent-Aufgaben zerlegen
+- Unterschied zwischen Prompt, Projektregel und Skill verstehen
 - Projektsteckbrief fuer das eigene Vorhaben schreiben
 - einen ersten Prototyp mit dem Coding-Agenten bauen lassen
 - Texte, Layout und Bedienung anpassen
@@ -138,6 +139,7 @@ Ergebnis: Das eigene Vorhaben hat eine funktionierende Grundversion oder einen b
 - Fehlermeldungen lesen
 - Bugs und Verbesserungswuensche klar an den Coding-Agenten zurueckmelden
 - einfache Test-Checkliste anwenden
+- wiederverwendbare Skills fuer Diagnose, TDD oder Review kennenlernen
 - Bedienbarkeit, Eingaben und Smartphone-Ansicht pruefen
 - Versionen und Zwischenschritte sichern
 
@@ -148,6 +150,7 @@ Ergebnis: Das Projekt wurde geprueft und gezielt verbessert.
 - Warum Versionierung wichtig ist
 - Git-Grundidee: Stand sichern, Aenderungen nachvollziehen, Rueckweg behalten
 - optional GitHub als Ablage und Austauschplattform
+- Agent Skills und Projektregeln fuer wiederkehrende Arbeit einordnen
 - Projektstruktur aufraeumen
 - den Coding-Agenten fuer Erklaerungen, Refactoring und kleine Erweiterungen nutzen
 - Datenschutz, Zugangsdaten und sensible Daten im Projekt pruefen
