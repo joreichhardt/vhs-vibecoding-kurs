@@ -25,9 +25,10 @@ Noetig:
 - Subscription oder ausreichend Credits bei einem Modellanbieter
 - ausreichendes Nutzungskontingent fuer mehrere Kursstunden, zum Beispiel bei Claude, OpenAI, Qwen oder einem vergleichbaren Anbieter
 - fuer den Workshopzeitraum besser ein Pro-, Max-, Team- oder vergleichbarer Tarif mit hoeherem Limit
+- grobe Budgetorientierung: ca. 100 EUR pro Monat, je nach Anbieter, Abrechnung und aktuellem Tarif
 - passender Coding-Agent, der mit diesem Anbieter arbeitet
 
-Der Coding-Agent allein reicht nicht; er braucht einen funktionierenden Modellzugang. Niedrige Plus- oder Standard-Tarife koennen fuer laengere Agent-Sessions zu schnell an Token- und Nutzungslimits stossen.
+Der Coding-Agent allein reicht nicht; er braucht einen funktionierenden Modellzugang. Niedrige Plus- oder Standard-Tarife koennen fuer laengere Agent-Sessions zu schnell an Token- und Nutzungslimits stossen. Preise und Limits sollten vor dem Kurs beim jeweiligen Anbieter geprueft werden.
 
 Grenzen:
 
