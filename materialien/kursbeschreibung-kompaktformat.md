@@ -47,7 +47,7 @@ Die Teilnehmerinnen und Teilnehmer koennen nach dem Kurs:
 - E-Mail-Zugang fuer Anmeldung und Konten
 - grundlegende Computerkenntnisse
 - Subscription oder ausreichend Credits bei Claude, OpenAI, Qwen oder einem vergleichbaren Modellanbieter
-- empfohlen fuer den Workshopzeitraum: Pro-, Max-, Team- oder vergleichbarer Tarif mit hoeherem Nutzungskontingent
+- empfohlen fuer den Workshopzeitraum: Pro-, Max- oder vergleichbarer Einzeltarif mit hoeherem Nutzungskontingent
 - Budgetorientierung: solche Tarife liegen grob bei ca. 100 EUR pro Monat, je nach Anbieter, Abrechnung und aktuellem Tarif
 - niedrige Plus- oder Standard-Tarife koennen bei Coding-Agenten schnell an Token- und Nutzungslimits stossen
 - aktuelle Preise und Limits bitte vor der Anmeldung beim jeweiligen Anbieter pruefen
